@@ -3,4 +3,4 @@ This repository contains an implementation of a Neural Radiance Fields (NeRF) mo
 Dataset: Includes preprocessed RGB images, camera poses, and focal length data.
 
 #### How to Run
-Open and execute the notebook depth_nerf_prediction.ipynb using Jupyter Notebook or Google Colab.
+Open and execute the notebook Depth-NeRF.ipynb using Jupyter Notebook or Google Colab.
